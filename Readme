@@ -1,0 +1,21 @@
+# Honeypot Creation with Pentbox
+
+## Description
+This repository showcases my completion of the "Honeypot Creation with Pentbox" lab from the CompTIA TestOut CyberDefense Pro course. In this lab, I learned how to set up a honeypot on a computer named www_stage using Pentbox. The purpose of the honeypot was to study hacking attempts and unauthorized activity in a simulated DMZ environment.
+
+## Lab Overview
+- **Lab Name:** Honeypot Creation with Pentbox
+- **Course:** CompTIA TestOut CyberDefense Pro
+- **Duration:** 1 hour and 3 minutes
+- **Score:** 4/4 (100%)
+- **Passing Score:** 4/4 (100%)
+
+## Key Commands Used
+To create the honeypot on www_stage using Pentbox, the following commands were used:
+
+```bash
+cd pentbox-1.8
+./pentbox.rb
+2 (Network Tools)
+3 (Honeypot)
+1 (Fast Auto Configuration)
